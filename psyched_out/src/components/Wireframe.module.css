@@ -1,0 +1,54 @@
+.psychedOut {
+    position: absolute;
+    top: 59px;
+    left: 164px;
+  }
+  .backgroundChild {
+    position: absolute;
+    top: 169px;
+    left: 30px;
+    border-radius: 10px;
+    background-color: #fec13e;
+    width: 1380px;
+    height: 601px;
+  }
+  .backgroundItem {
+    position: absolute;
+    top: 790px;
+    left: 30px;
+    border-radius: 10px;
+    background-color: #fec13e;
+    width: 1380px;
+    height: 163px;
+  }
+  .background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+    overflow: hidden;
+    background-image: url('Background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .image1Icon {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 99px;
+    height: 99px;
+    object-fit: cover;
+  }
+  .wireframe1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 48px;
+    color: #000;
+    font-family: Caveat;
+  }
