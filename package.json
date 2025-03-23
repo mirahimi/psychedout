@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "@auth0/auth0-react": "^2.3.0",
-    "axios": "^1.8.4"
+    "axios": "^1.8.4",
+    "react-router-dom": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.12"
   }
 }

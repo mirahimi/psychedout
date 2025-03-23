@@ -3,7 +3,8 @@ import ChatForm from './components/ChatForm';
 import { LoginButton, LogoutButton, ProtectedRoute } from './components/AuthButtons';
 import Wireframe from './components/Wireframe';
 
-const App: React.FC = () => {
+
+export const App: React.FC = () => {
   return (
     <div>
       <Wireframe />
@@ -16,5 +17,3 @@ const App: React.FC = () => {
     </div>
   );
 };
-
-export default App;
